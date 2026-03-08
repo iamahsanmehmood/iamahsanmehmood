@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=&fontSize=0" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iamahsanmehmood">
-    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108397884?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width="180" alt="Ahsan Mehmood"/>
-  </a>
-</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahsan+Mehmood;Developer+%E2%80%A2+Founder+%E2%80%A2+Builder" alt="Typing SVG" />
@@ -199,6 +190,4 @@ Projects in 🇵🇰 🇺🇸 🇦🇺<br/>
   <a href="https://xechtech.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-</p>
+
