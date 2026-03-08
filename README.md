@@ -1,6 +1,21 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=&fontSize=0" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iamahsanmehmood">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/108397884?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d" width="180" alt="Ahsan Mehmood"/>
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+I'm+Ahsan+Mehmood;Developer+%E2%80%A2+Founder+%E2%80%A2+Builder" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <b>Full-Stack Developer · Technical Founder · Problem Solver</b><br/>
+  <sub>Co-Founder & CEO at <a href="https://xechtech.com">XechTech</a> · 5+ Years · 38+ Projects Shipped 🚀</sub>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -45,7 +60,7 @@ When I'm not coding, you'll find me running marathons 🏃, exploring philosophy
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,php,dart,ruby&theme=dark" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,laravel,flutter,threejs,wordpress&theme=dark" alt="Frameworks" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,visualstudio,vscode&theme=dark" alt="Tools" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css,autocad&theme=dark" alt="More" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,html,css&theme=dark" alt="More" />
 </p>
 
 <details>
@@ -123,12 +138,18 @@ AutoCAD AI Agent for automated floor plans + Gemini PC-Commander for voice-contr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamahsanmehmood&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=iamahsanmehmood&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <a href="https://github.com/iamahsanmehmood">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=iamahsanmehmood&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamahsanmehmood&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamahsanmehmood&theme=tokyonight" alt="Profile Details" width="90%"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamahsanmehmood&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamahsanmehmood&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -172,7 +193,8 @@ Projects in 🇵🇰 🇺🇸 🇦🇺<br/>
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:contact@xechtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mail.ahsanmehmood@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:ahsan@xechtech.com"><img src="https://img.shields.io/badge/Work_Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Work Email"/></a>
   <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://xechtech.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
