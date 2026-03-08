@@ -32,16 +32,15 @@ role: Full-Stack Software Developer & Technical Founder
 company: XechTech (Co-Founder & CEO)
 experience: 5+ years building production software
 education: BS Computer Science — Virtual University of Pakistan
-languages: Urdu, Pahri, Hindku, English
-interests: [AI, Philosophy, History, Poetry, Space, Running]
+focus: [.NET, Flutter, React, AI/LLM, Cloud, Engineering Software]
 motto: "Building software that solves real problems"
 ```
 
 I'm a **Full-Stack Developer** and **Technical Founder** who bridges the gap between code and real-world business problems. Over **5+ years**, I've shipped **38+ projects** — from restaurant POS systems to AI-powered engineering tools to government websites.
 
-I'm the **Co-Founder & CEO of [XechTech](https://xechtech.com)**, where we build high-end software solutions. I've worked across **8+ organizations**, built software for **US & Australian markets**, and even helped fix bugs at a major bank.
+I'm the **Co-Founder & CEO of [XechTech](https://xechtech.com)**, where we build high-end software solutions. I've worked across **8+ organizations** and delivered production software for clients in **Pakistan, the US & Australia**.
 
-When I'm not coding, you'll find me running marathons 🏃, exploring philosophy at Islamabad's intellectual gatherings 📚, or diving into Urdu poetry at ancient Buddhist caves 🏛️.
+Outside of work, I'm a marathon runner 🏃 and an avid reader on philosophy, history and technology.
 
 ---
 
@@ -153,26 +152,23 @@ AutoCAD AI Agent for automated floor plans + Gemini PC-Commander for voice-contr
 
 **🏅 Marathon Runner**<br/>
 4+ races completed<br/>
-6K in 21 min (3.5 min/km)<br/>
 Half Marathon finisher<br/>
 *Member of "Islamabad — Run With Us"*
 
 </td>
 <td width="33%" align="center">
 
-**📖 Intellectual Explorer**<br/>
+**📖 Lifelong Learner**<br/>
+AI & Emerging Tech<br/>
 Philosophy · History · Psychology<br/>
-Poetry at Buddhist Caves<br/>
-Literary discussions at The Black Hole<br/>
-*Urdu literature enthusiast*
+*Reader, thinker, builder*
 
 </td>
 <td width="33%" align="center">
 
 **🌍 Career Journey**<br/>
-Restaurant Supervisor → Tech Founder<br/>
 10 roles across 8+ organizations<br/>
-Projects in 🇵🇰 🇺🇸 🇦🇺<br/>
+Clients in 🇵🇰 🇺🇸 🇦🇺<br/>
 *From zero to 38+ shipped projects*
 
 </td>
