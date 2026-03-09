@@ -10,9 +10,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://dev.to/iamahsanmehmood"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://medium.com/@iamahsanmehmood"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://iamahsanmehmood.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://stackoverflow.com/users/25679217"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://www.crunchbase.com/person/ahsan-mehmood-e74f"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase"/></a>
+</p>
+
+<p align="center">
   <a href="https://www.instagram.com/iamahsanmehmood/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.facebook.com/IAmAhsanMehmood"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://twitter.com/IAmAhsanMehmood"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
   <a href="https://xechtech.com"><img src="https://img.shields.io/badge/XechTech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="XechTech"/></a>
 </p>
 
@@ -183,7 +190,16 @@ Clients in 🇵🇰 🇺🇸 🇦🇺<br/>
   <a href="mailto:mail.ahsanmehmood@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:ahsan@xechtech.com"><img src="https://img.shields.io/badge/Work_Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Work Email"/></a>
   <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/923005100317"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://xechtech.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/iamahsanmehmood"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://medium.com/@iamahsanmehmood"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://iamahsanmehmood.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://stackoverflow.com/users/25679217"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://www.crunchbase.com/person/ahsan-mehmood-e74f"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase"/></a>
 </p>
 
 
