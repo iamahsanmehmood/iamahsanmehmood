@@ -190,7 +190,6 @@ Clients in 🇵🇰 🇺🇸 🇦🇺<br/>
   <a href="mailto:mail.ahsanmehmood@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:ahsan@xechtech.com"><img src="https://img.shields.io/badge/Work_Email-6C63FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Work Email"/></a>
   <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wa.me/923005100317"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://xechtech.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
