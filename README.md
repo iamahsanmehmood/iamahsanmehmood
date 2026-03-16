@@ -13,7 +13,7 @@
   <a href="https://dev.to/iamahsanmehmood"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://medium.com/@iamahsanmehmood"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://iamahsanmehmood.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://stackoverflow.com/users/25679217"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://stackoverflow.com/users/19442233/iamahsanmehmoood"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://www.crunchbase.com/person/ahsan-mehmood-e74f"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase"/></a>
 </p>
 
@@ -197,7 +197,7 @@ Clients in 🇵🇰 🇺🇸 🇦🇺<br/>
   <a href="https://dev.to/iamahsanmehmood"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://medium.com/@iamahsanmehmood"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://iamahsanmehmood.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-  <a href="https://stackoverflow.com/users/25679217"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://stackoverflow.com/users/19442233/iamahsanmehmoood"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
   <a href="https://www.crunchbase.com/person/ahsan-mehmood-e74f"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" alt="Crunchbase"/></a>
 </p>
 
