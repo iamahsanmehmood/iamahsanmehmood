@@ -42,6 +42,7 @@ Read, write and convert SketchUp (.skp) files without the SketchUp SDK, in Pytho
 <a href="https://github.com/iamahsanmehmood/openskp"><img src="https://img.shields.io/github/stars/iamahsanmehmood/openskp?style=flat-square&logo=github&label=stars" alt="stars"></a>
 <a href="https://pypi.org/project/openskp/"><img src="https://img.shields.io/pypi/dm/openskp?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI downloads"></a>
 <a href="https://www.npmjs.com/package/openskp"><img src="https://img.shields.io/npm/dm/openskp?style=flat-square&logo=npm&label=npm" alt="npm downloads"></a>
+<br><sub>📺 Featured by Blender 3D Architect: <a href="https://www.youtube.com/watch?v=q-Gjsa4tuPU">Blender and FreeCAD can now read and write SketchUp files</a> · <a href="https://www.youtube.com/watch?v=M43s__dC3FM">Blender 5.3 SketchUp import</a></sub>
 
 </td>
 <td width="50%" valign="top">
