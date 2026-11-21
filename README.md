@@ -82,11 +82,11 @@ Also: [Blender](https://github.com/iamahsanmehmood/blender-openskp) and [FreeCAD
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [I turned the CCTV monitor on the wall into a screen I can cast to](https://iamahsanmehmood.hashnode.dev/i-turned-the-cctv-monitor-on-the-wall-into-a-screen-i-can-cast-to)
 - [I turned the CCTV monitor on the wall into a screen I can cast to](https://dev.to/iamahsanmehmood/i-turned-the-cctv-monitor-on-the-wall-into-a-screen-i-can-cast-to-kfk)
-- [We Let AI Build SketchUp Models With Nothing But an API](https://iamahsanmehmood.hashnode.dev/we-let-ai-build-sketchup-models-with-nothing-but-an-api)
 - [We Let AI Build SketchUp Models With Nothing But an API](https://dev.to/iamahsanmehmood/we-let-ai-build-sketchup-models-with-nothing-but-an-api-3d0a)
-- [OpenSKP 1.1.0: A Native .skp Writer, Now in All Five Languages](https://iamahsanmehmood.hashnode.dev/openskp-1-1-0-a-native-skp-writer-now-in-all-five-languages)
+- [OpenSKP 1.1.0: A Native .skp Writer, Now in All Five Languages](https://dev.to/iamahsanmehmood/openskp-110-a-native-skp-writer-now-in-all-five-languages-5d0m)
+- [Why We Built OpenSKP](https://dev.to/iamahsanmehmood/why-we-built-openskp-4g8d)
+- [How We Reverse-Engineered the SketchUp &lpar;.skp&rpar; Binary Format to Build a Pure JS/Python 3D Viewer](https://dev.to/iamahsanmehmood/how-we-reverse-engineered-the-sketchup-skp-binary-format-to-build-a-pure-jspython-3d-viewer-4nm2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub activity
