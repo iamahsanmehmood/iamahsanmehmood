@@ -82,7 +82,11 @@ Also: [Blender](https://github.com/iamahsanmehmood/blender-openskp) and [FreeCAD
 ### ✍️ Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I turned the CCTV monitor on the wall into a screen I can cast to](https://iamahsanmehmood.hashnode.dev/i-turned-the-cctv-monitor-on-the-wall-into-a-screen-i-can-cast-to)
 - [I turned the CCTV monitor on the wall into a screen I can cast to](https://dev.to/iamahsanmehmood/i-turned-the-cctv-monitor-on-the-wall-into-a-screen-i-can-cast-to-kfk)
+- [We Let AI Build SketchUp Models With Nothing But an API](https://iamahsanmehmood.hashnode.dev/we-let-ai-build-sketchup-models-with-nothing-but-an-api)
+- [We Let AI Build SketchUp Models With Nothing But an API](https://dev.to/iamahsanmehmood/we-let-ai-build-sketchup-models-with-nothing-but-an-api-3d0a)
+- [OpenSKP 1.1.0: A Native .skp Writer, Now in All Five Languages](https://iamahsanmehmood.hashnode.dev/openskp-1-1-0-a-native-skp-writer-now-in-all-five-languages)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub activity
