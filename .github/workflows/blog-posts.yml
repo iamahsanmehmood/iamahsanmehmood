@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/iamahsanmehmood,https://iamahsanmehmood.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/iamahsanmehmood"
           max_post_count: 5
           remove_duplicates: true
           commit_message: "Update latest blog posts"
