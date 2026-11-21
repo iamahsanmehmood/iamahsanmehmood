@@ -1,36 +1,101 @@
-## Hi, I'm Ahsan Mehmood
+<p align="center">
+  <img src="assets/header.svg" alt="Ahsan Mehmood: full-stack software engineer, web, desktop, AI and 3D" width="100%">
+</p>
 
-**Full-stack software engineer in Islamabad, Pakistan.** I build web, desktop and AI software, with a speciality in CAD, BIM and 3D file formats for the construction industry.
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamahsanmehmood/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/me_ahsanmehmood"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://dev.to/iamahsanmehmood"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://iamahsanmehmood.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+  <a href="https://medium.com/@iamahsanmehmood"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://openskp.com"><img src="https://img.shields.io/badge/openskp.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="openskp.com"></a>
+  <a href="mailto:mail.ahsanmehmood@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- **Technical Lead, Software Department** at Sysol Limited, building engineering software for light-gauge steel detailers and estimators who work for builders in Australia and New Zealand
-- **Software Developer (contract)** at Scottsdale Construction Systems, working on ScotFab, the production dashboard for Scottsdale Steel Frames
-- **Co-founder** of [XechTech](https://xechtech.com), where we build point-of-sale systems and apps for businesses in Pakistan
+### 👋 About me
 
-### Open source
+I'm a **full-stack software engineer in Islamabad, Pakistan**. I build web, desktop and AI software, with a speciality in **CAD, BIM and 3D file formats** for the construction industry.
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[OpenSKP](https://github.com/iamahsanmehmood/openskp)** | Reads, writes and converts SketchUp (.skp) files without the SketchUp SDK. Exports glTF, OBJ, STL, DXF, IFC4 and Fragments. 200+ stars, 29 contributors, 100,000+ package downloads a month. [openskp.com](https://openskp.com) | Python · TypeScript · C# · Dart · C++ |
-| **[SAIE](https://github.com/iamahsanmehmood/saie)** | An MCP server with 67+ tools that lets AI agents (Claude, Cursor, Ollama) build and inspect models in a live SketchUp session | Python · Ruby · WebSockets |
-| **[NVR Cast Hub](https://github.com/iamahsanmehmood/nvr-cast-hub)** | Casts your desktop, a browser tab or YouTube to any CCTV monitor by making your PC look like an IP camera to the recorder | Python · FFmpeg · RTSP |
-| **[urdu-tools](https://github.com/iamahsanmehmood/urdu-tools)** | Zero-dependency Urdu text processing (normalisation, search, sorting, numbers to words, compound words), with 747 tests | TypeScript · C# · Dart |
-| **[inpage-format](https://github.com/iamahsanmehmood/inpage-format)** | A reverse-engineered specification and decoders for InPage `.inp`, the Urdu word processor format | TypeScript · C# |
-| **[Blender](https://github.com/iamahsanmehmood/blender-openskp) / [FreeCAD](https://github.com/iamahsanmehmood/freecad-openskp) add-ons** | Native .skp import and export for Blender and FreeCAD, built on OpenSKP | Python |
+- 🏗️ **Technical Lead, Software Department** at Sysol Limited: engineering software for light-gauge steel detailers and estimators who work for builders in Australia and New Zealand
+- 🏭 **Software Developer (contract)** at Scottsdale Construction Systems: ScotFab, the production dashboard for Scottsdale Steel Frames
+- 🚀 **Co-founder** of [XechTech](https://xechtech.com): point-of-sale systems and apps for businesses in Pakistan
 
-### What I work with
+### 🧰 Tech I work with
 
-- **Languages:** C#, Python, TypeScript/JavaScript, SQL, C++, Dart, Ruby, PHP
-- **Frameworks:** .NET, ASP.NET, React, Node.js, Express, Next.js, Flutter, PySide6 (Qt), Laravel, Three.js
-- **Data and cloud:** SQL Server, MySQL, SQLite, AWS, Google Cloud, Firebase, Azure DevOps, GitHub Actions, Docker
-- **CAD, BIM and 3D:** SketchUp, IFC, DXF/AutoCAD, glTF, ThatOpen Fragments, CNC machine files
-- **AI:** LLM integration (Claude API, Gemini), Model Context Protocol (MCP) servers, AI coding agents
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,react,nodejs,nextjs,cpp&perline=9" alt="C#, .NET, Python, TypeScript, JavaScript, React, Node.js, Next.js, C++"><br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,laravel,threejs,blender,mysql,sqlite,ruby&perline=9" alt="Flutter, Dart, PHP, Laravel, Three.js, Blender, MySQL, SQLite, Ruby"><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,docker,git,githubactions,vscode,visualstudio&perline=9" alt="AWS, Google Cloud, Azure, Firebase, Docker, Git, GitHub Actions, VS Code, Visual Studio">
+</p>
 
-### Writing
+Also: **SQL Server** · **Entity Framework** · **PySide6 / Qt** · **SketchUp, IFC, DXF, glTF** · **LLM integration and MCP servers**
 
-I write about reverse engineering file formats, construction software and open source on [dev.to](https://dev.to/iamahsanmehmood), [Hashnode](https://iamahsanmehmood.hashnode.dev/), [Medium](https://medium.com/@iamahsanmehmood) and the [OpenSKP blog](https://openskp.com/blog/).
+### 🔧 Open source
 
-### Contact
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[LinkedIn](https://www.linkedin.com/in/iamahsanmehmood/) · [mail.ahsanmehmood@gmail.com](mailto:mail.ahsanmehmood@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/19442233/iamahsanmehmoood)
+**[OpenSKP](https://github.com/iamahsanmehmood/openskp)**<br>
+Read, write and convert SketchUp (.skp) files without the SketchUp SDK, in Python, TypeScript, C#, Dart and C++. Exports glTF, OBJ, STL, DXF, IFC4 and Fragments.
 
-Outside work I run (half marathon finisher, with Islamabad's "Run With Us" group) and read about philosophy and history.
+<a href="https://github.com/iamahsanmehmood/openskp"><img src="https://img.shields.io/github/stars/iamahsanmehmood/openskp?style=flat-square&logo=github&label=stars" alt="stars"></a>
+<a href="https://pypi.org/project/openskp/"><img src="https://img.shields.io/pypi/dm/openskp?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI downloads"></a>
+<a href="https://www.npmjs.com/package/openskp"><img src="https://img.shields.io/npm/dm/openskp?style=flat-square&logo=npm&label=npm" alt="npm downloads"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[NVR Cast Hub](https://github.com/iamahsanmehmood/nvr-cast-hub)**<br>
+Cast your desktop, a browser tab or YouTube to any CCTV monitor. Your PC pretends to be an IP camera, so the recorder shows whatever you cast, with sound.
+
+<a href="https://github.com/iamahsanmehmood/nvr-cast-hub"><img src="https://img.shields.io/github/stars/iamahsanmehmood/nvr-cast-hub?style=flat-square&logo=github&label=stars" alt="stars"></a>
+<a href="https://github.com/iamahsanmehmood/nvr-cast-hub/releases"><img src="https://img.shields.io/github/v/release/iamahsanmehmood/nvr-cast-hub?include_prereleases&style=flat-square&label=release" alt="release"></a>
+<img src="https://img.shields.io/badge/Python%20%C2%B7%20FFmpeg%20%C2%B7%20RTSP-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python, FFmpeg, RTSP">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[SAIE](https://github.com/iamahsanmehmood/saie)**<br>
+An MCP server with 67+ tools that lets AI agents (Claude, Cursor, Ollama) build and inspect models in a live SketchUp session.
+
+<a href="https://github.com/iamahsanmehmood/saie"><img src="https://img.shields.io/github/stars/iamahsanmehmood/saie?style=flat-square&logo=github&label=stars" alt="stars"></a>
+<img src="https://img.shields.io/badge/MCP-Python%20%C2%B7%20Ruby-8A2BE2?style=flat-square" alt="MCP, Python, Ruby">
+
+</td>
+<td width="50%" valign="top">
+
+**[urdu-tools](https://github.com/iamahsanmehmood/urdu-tools)**<br>
+Zero-dependency Urdu text processing for TypeScript, C# and Dart: normalisation, search, sorting, numbers to words and compound words. 747 tests.
+
+<a href="https://github.com/iamahsanmehmood/urdu-tools"><img src="https://img.shields.io/github/stars/iamahsanmehmood/urdu-tools?style=flat-square&logo=github&label=stars" alt="stars"></a>
+<a href="https://www.npmjs.com/package/urdu-tools"><img src="https://img.shields.io/npm/dm/urdu-tools?style=flat-square&logo=npm&label=npm" alt="npm downloads"></a>
+
+</td>
+</tr>
+</table>
+
+Also: [Blender](https://github.com/iamahsanmehmood/blender-openskp) and [FreeCAD](https://github.com/iamahsanmehmood/freecad-openskp) add-ons for .skp import and export · [inpage-format](https://github.com/iamahsanmehmood/inpage-format), a reverse-engineered spec for InPage Urdu files
+
+### ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [I turned the CCTV monitor on the wall into a screen I can cast to](https://dev.to/iamahsanmehmood/i-turned-the-cctv-monitor-on-the-wall-into-a-screen-i-can-cast-to-kfk)
+<!-- BLOG-POST-LIST:END -->
+
+### 📊 GitHub activity
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamahsanmehmood&theme=github_dark" alt="GitHub stats" height="160">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamahsanmehmood&theme=github_dark" alt="Most used languages by commit" height="160">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamahsanmehmood/iamahsanmehmood/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamahsanmehmood/iamahsanmehmood/output/github-snake.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/iamahsanmehmood/iamahsanmehmood/output/github-snake-dark.svg">
+</picture>
+
+<sub>Outside work I run (half marathon finisher, with Islamabad's "Run With Us" group) and read about philosophy and history.</sub>
