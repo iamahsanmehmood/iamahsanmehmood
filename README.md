@@ -69,7 +69,7 @@ An MCP server with 67+ tools that lets AI agents (Claude, Cursor, Ollama) build 
 <td width="50%" valign="top">
 
 **[urdu-tools](https://github.com/iamahsanmehmood/urdu-tools)**<br>
-Zero-dependency Urdu text processing for TypeScript, C# and Dart: normalisation, search, sorting, numbers to words and compound words. 747 tests.
+Zero-dependency Urdu text processing for TypeScript, C# and Dart: normalisation, search, sorting, numbers to words and compound words. 850+ tests.
 
 <a href="https://github.com/iamahsanmehmood/urdu-tools"><img src="https://img.shields.io/github/stars/iamahsanmehmood/urdu-tools?style=flat-square&logo=github&label=stars" alt="stars"></a>
 <a href="https://www.npmjs.com/package/urdu-tools"><img src="https://img.shields.io/npm/dm/urdu-tools?style=flat-square&logo=npm&label=npm" alt="npm downloads"></a>
